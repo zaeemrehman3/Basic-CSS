@@ -1,0 +1,62 @@
+.logo {text-align: center;
+    width: 600px;
+    margin: 20px auto 20px auto;
+    font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1px;}
+  
+h1 {font-size: 300%;}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.one{
+    font-family: monospace;
+}
+
+.two{
+    font-family: sans-serif;
+}
+
+header{
+    text-align: center;
+    padding: 30px;
+}
+
+li{
+display: inline;
+letter-spacing: 0.15rem;
+margin: 0px 20px;
+font-size: small;
+cursor: pointer;
+text-transform: uppercase;
+}
+
+ul{
+    text-align: center;
+    border-top: 2px solid #000000;
+    border-bottom: 1px solid #000000;
+    padding: 14px;
+    width: 600px;
+    margin: 0px auto;
+}
+
+#picc{
+    margin: 20px auto 20px auto;
+    padding: 20px;
+    width: 650px;
+}
+
+.five{
+    text-align: center;
+    width: 650px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.a:hover{
+    color: #50c7c7;
+}
